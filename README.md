@@ -17,5 +17,4 @@ Forecastify is a simple forecast app, which uses some APIs to fetch 5 day / 3 ho
 * Android Studio
 
 ## Screenshots
-<img src="/screenshots/ss1.jpg" width="250">  <img src="/screenshots/ss2.jpg" width="250">   <img src="/screenshots/ss3.jpg" width="250">
-
+<img src="/screenshots/ss1.jpg" width="250"> <img src="/screenshots/ss2.jpg" width="250"> <img src="/screenshots/ss3.jpg" width="250">
