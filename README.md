@@ -18,3 +18,8 @@ Forecastify is a simple forecast app, which uses some APIs to fetch 5 day / 3 ho
 
 ## Screenshots
 <img src="/screenshots/ss1.jpg" width="250"> <img src="/screenshots/ss2.jpg" width="250"> <img src="/screenshots/ss3.jpg" width="250">
+
+
+## Download APK
+
+[Google Drive Link](https://drive.google.com/file/d/17HLTZsSXw3J6U4DlJ0Is6a8nlSZGd6wo/view?usp=sharing)
